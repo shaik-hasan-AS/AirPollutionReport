@@ -1,0 +1,7 @@
+"Pairwise_Comparison","Mean_Difference","CI_95_Lower","CI_95_Upper","Raw_p_value","Significance","Adjusted_p_value"
+"Summer-Monsoon",12.0860405273154,11.1286683878339,13.0434126667969,0,"Significant (p < 0.05)","< 1e-15"
+"Post_Monsoon-Monsoon",18.8577603444906,17.8578803447599,19.8576403442212,0,"Significant (p < 0.05)","< 1e-15"
+"Winter-Monsoon",28.8879994148806,27.9252975172816,29.8507013124795,0,"Significant (p < 0.05)","< 1e-15"
+"Post_Monsoon-Summer",6.77171981717521,5.67969725674663,7.86374237760379,0,"Significant (p < 0.05)","< 1e-15"
+"Winter-Summer",16.8019588875652,15.7438718390364,17.860045936094,0,"Significant (p < 0.05)","< 1e-15"
+"Winter-Post_Monsoon",10.03023907039,8.93354093385914,11.1269372069208,0,"Significant (p < 0.05)","< 1e-15"

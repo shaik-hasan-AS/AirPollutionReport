@@ -1,0 +1,16 @@
+# Raw big data files exceeding GitHub's 100 MB limit
+datasets/*.csv
+datasets/*.zip
+datasets/*.tar.gz
+
+# R environment & temp files
+.Rhistory
+.RData
+.Rproj.user
+.RDataTmp
+
+# OS / IDE metadata
+.DS_Store
+Thumbs.db
+__pycache__/
+*.tmp

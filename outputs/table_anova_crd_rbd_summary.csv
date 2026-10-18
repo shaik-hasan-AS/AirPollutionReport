@@ -1,0 +1,6 @@
+"Source_of_Variation","Degrees_of_Freedom","Sum_of_Squares","Mean_Square","F_Statistic","p_value"
+"CRD: Season (Treatment)",3,4302427.8,1434142.6,2132.06,"< 1e-15"
+"CRD: Residuals",35086,23600801.3,672.66,NA,NA
+"RBD: Season (Treatment)",3,12796,4265.35,39.98,"< 1e-15"
+"RBD: City (Block)",28,36092.6,1289.02,12.08,"< 1e-15"
+"RBD: Residuals",84,8962,106.69,NA,NA

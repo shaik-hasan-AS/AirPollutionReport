@@ -1,0 +1,3 @@
+"Distribution","Param_1","Param_2","LogLikelihood","AIC","BIC","KS_Stat_D","KS_p_value"
+"Normal Distribution","mu = 34.74","sigma = 28.20",-166966.27,333936.53,333953.46,0.134,"< 1e-15"
+"Log-Normal Distribution","mu_log = 3.2666","sigma_log = 0.7690",-155198.39,310400.79,310417.72,0.0209,"0.02571"

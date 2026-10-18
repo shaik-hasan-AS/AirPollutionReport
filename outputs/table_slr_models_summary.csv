@@ -1,0 +1,4 @@
+"Model","Predictor","Intercept_b0","Slope_b1","Std_Error_b1","t_value","p_value","R_Squared","Adj_R_Squared","Residual_SE","F_Statistic"
+"Model 1","PM10 (ug/m3)",20.8471,0.2469,0.0014,172.52,"< 1e-15",0.4589,0.4589,20.74,29763.32
+"Model 2","Wind Speed (km/h)",41.4903,-0.8316,0.0367,-22.66,"< 1e-15",0.0144,0.0144,28,513.64
+"Model 3","Humidity (%)",60.1581,-0.3564,0.0087,-40.78,"< 1e-15",0.0452,0.0452,27.55,1662.88

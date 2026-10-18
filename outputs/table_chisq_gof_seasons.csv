@@ -1,0 +1,5 @@
+"Season","Observed_Bad_Days","Expected_Bad_Days","Observed_Percentage","Standardized_Residual"
+"Winter",2327,1210.5,48.06,32.09
+"Summer",674,1210.5,13.92,-15.42
+"Monsoon",342,1210.5,7.06,-24.96
+"Post_Monsoon",1499,1210.5,30.96,8.29

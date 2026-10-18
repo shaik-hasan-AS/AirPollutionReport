@@ -1,0 +1,4 @@
+"Test_Type","ChiSquare_Stat","Degrees_of_Freedom","p_value","Effect_Size_Metric","Decision"
+"Goodness-of-Fit",1959.46,3,"< 1e-15","Max Std Residual = +29.1 (Winter)","Reject H0 (Highly Significant)"
+"Contingency (Season x Severity)",5823.71,6,"< 1e-15","Cramer's V = 0.288","Reject H0 (Highly Significant)"
+"Contingency (Crop Burning 2x2)",436.3,1,"< 1e-15","Odds Ratio = 2.04","Reject H0 (Highly Significant)"

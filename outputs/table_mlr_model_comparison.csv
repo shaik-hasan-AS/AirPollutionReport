@@ -1,0 +1,4 @@
+"Model","Predictors_Count","Residual_SE","Multiple_R2","Adjusted_R2","F_Statistic"
+"Model A (Weather Only)",5,26.27,0.1322,0.1321,1069.37
+"Model B (Chemistry Only)",4,16.23,0.6689,0.6689,17723.28
+"Model C (Full Combined)",9,15.78,0.6869,0.6868,8551.9
