@@ -9,6 +9,10 @@ datasets/*.tar.gz
 .Rproj.user
 .RDataTmp
 
+# Planning documents (internal)
+project_plan.md
+project_plan*
+
 # OS / IDE metadata
 .DS_Store
 Thumbs.db

@@ -49,7 +49,7 @@ This report delivers a comprehensive empirical and statistical evaluation of amb
 
 ## 2. What Questions We Are Trying to Find (Research Objectives)
 
-As formulated in the project plan, this laboratory investigation was structured around **9 fundamental environmental research questions**:
+This comprehensive laboratory investigation was structured around **9 fundamental environmental research questions**:
 
 | # | Research Question | Theoretical Approach & Statistical Test | Key Variables |
 |---|---|---|---|

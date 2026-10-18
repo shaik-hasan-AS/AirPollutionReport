@@ -37,7 +37,6 @@ The complete, publication-grade lab report with all mathematical models, hypothe
 ```
 AQI_report/
 ├── README.md                            # Project overview & quickstart
-├── project_plan.md                      # Original project plan & specifications
 ├── .gitignore                           # Excludes >100MB raw files and temporary data
 ├── datasets/
 │   └── README.md                        # Provenance and instructions to download raw Kaggle dataset
